@@ -1,0 +1,15 @@
+C:\code\git\BaseCsharp\Base.Web\bin\Debug\Base.Web.dll
+C:\code\git\BaseCsharp\Base.Web\bin\Debug\Base.Web.pdb
+C:\code\git\BaseCsharp\Base.Web\obj\Debug\Base.Web.csprojResolveAssemblyReference.cache
+C:\code\git\BaseCsharp\Base.Web\obj\Debug\Base.Web.dll
+C:\code\git\BaseCsharp\Base.Web\obj\Debug\Base.Web.pdb
+C:\code\git\BaseCsharp\Source\Base.Web\bin\Debug\Base.Web.dll
+C:\code\git\BaseCsharp\Source\Base.Web\bin\Debug\Base.Web.pdb
+C:\code\git\BaseCsharp\Source\Base.Web\obj\Debug\Base.Web.csprojResolveAssemblyReference.cache
+C:\code\git\BaseCsharp\Source\Base.Web\obj\Debug\Base.Web.dll
+C:\code\git\BaseCsharp\Source\Base.Web\obj\Debug\Base.Web.pdb
+C:\code\git\BaseCsharp\Source\Base.Web\bin\Debug\Base.dll
+C:\code\git\BaseCsharp\Source\Base.Web\bin\Debug\Common.Logging.dll
+C:\code\git\BaseCsharp\Source\Base.Web\bin\Debug\Base.pdb
+C:\code\git\BaseCsharp\Source\Base.Web\bin\Debug\Common.Logging.pdb
+C:\code\git\BaseCsharp\Source\Base.Web\bin\Debug\Common.Logging.xml

@@ -1,0 +1,4 @@
+C:\code\git\BaseCsharp\Source\Base\bin\Debug\Base.dll
+C:\code\git\BaseCsharp\Source\Base\bin\Debug\Base.pdb
+C:\code\git\BaseCsharp\Source\Base\obj\Debug\Base.dll
+C:\code\git\BaseCsharp\Source\Base\obj\Debug\Base.pdb
